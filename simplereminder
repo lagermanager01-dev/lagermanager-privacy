@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutzerklärung</title>
+</head>
+<body>
+
+<h1>Datenschutzerklärung</h1>
+
+<p>Simple Reminder speichert Ihre Erinnerungen ausschließlich lokal auf Ihrem Gerät.
+Es erfolgt keine Übertragung der Inhalte Ihrer Erinnerungen an den Entwickler.</p>
+
+<p>Diese App verwendet Firebase Analytics von Google zur anonymen Erfassung von Nutzungsstatistiken,
+um die App zu verbessern. Dabei werden keine Inhalte Ihrer Erinnerungen übertragen.</p>
+
+<p>Weitere Informationen:
+<a href="https://firebase.google.com/support/privacy">
+https://firebase.google.com/support/privacy
+</a>
+</p>
